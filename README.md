@@ -1,8 +1,11 @@
-[中文](./README_CN.md)
-
 # Bedrock Access Gateway
 
 OpenAI-compatible RESTful APIs for Amazon Bedrock
+
+## TODO
+
+- [ ] Support multiple API keys
+- [ ] Support API key based rate limiting
 
 ## What's New 🔥
 
